@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">pekingDuck</string>
+    <string name="edit_restaurant">Enter a restaurant</string>
+    <string name="button_send">Add</string>
+    <string name="button_start">Start</string>
+    <string name="Button_Stop">Stop</string>
+    <string name="textView_Start">Let me help you choose where to eat!</string>
 </resources>
